@@ -29,14 +29,6 @@ Understand what makes a password strong and test it using free online password s
 
 ---
 
-## 📂 Contents
-
-- 📄 `Task_6_Cyber_Security_Report.docx` – Complete report in paragraph format
-- 🖼️ Screenshots of password evaluations (if added to repo)
-- 📘 This README.md
-
----
-
 ## 👨‍💻 Author
 
 **Krathan N Shetty**  
