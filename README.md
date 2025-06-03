@@ -1,5 +1,4 @@
-# 🔐 Cyber Security Internship – Task 6  
-## 🧠 Create a Strong Password and Evaluate Its Strength
+ ## 🧠 Create a Strong Password and Evaluate Its Strength
 
 Welcome to Task 6 of my Cyber Security Internship! In this task, I explored the art and science behind strong passwords 🔒. By testing different types of passwords using an online strength checker, I gained insight into what makes a password secure and how attackers might try to break them. 💥
 
